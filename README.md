@@ -11,7 +11,7 @@ Always looking for new daily challenges.</b> 🎨
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanflorafs&theme=blue-green"/>
 
-![Snake animation](https://github.com/renanFlorafs/renanFlora/tree/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/RenanFlorafs/RenanFlora/blob/output/github-contribution-grid-snake.svg)
 
 <h2>Favorite tools 👇</h2>
 
